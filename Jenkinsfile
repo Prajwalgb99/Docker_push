@@ -55,3 +55,16 @@ pipeline {
         }
     }
 }
+
+
+
+
+
+
+// First create a folder and write these files after that sign in for docker hub open jenkins go to settings credentials add credentials , username and pass word (of docker) model name as Docker and click create 
+// click on item , enter item name select pipeline click ok 
+// Next go to pipeline select pipeline from scm scm ->git , repo url 
+// change master to main 
+// Choose script path to jenkinsfile
+
+// build pipelen(if erreo comes check for plugin) Pipeline , Git , Credentials Binding , Docker Pipeline ,Blue Ocean , Docker Commons
